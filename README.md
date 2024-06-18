@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on basic projects
-- 🌱 I’m learning full stack development
+- 🔭 I’m currently working on basic projects as a full stack developer
 - 👯 I’m looking to collaborate on MERN projects
 - ⚡ Fact: Through helping others, you strengthen your own knowledge and cement your place in the business community. Ask questions. Answer questions.
 
